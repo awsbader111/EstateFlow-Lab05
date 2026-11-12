@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj": {}
+    "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj": {
+    "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj",
         "projectName": "EstateFlow.Application",
-        "projectPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj",
-        "packagesPath": "C:\\Users\\4-110-7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\obj\\",
+        "projectPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj",
+        "packagesPath": "C:\\Users\\Nadia Sherri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\4-110-7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nadia Sherri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -34,8 +34,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj": {
-                "projectPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj"
+              "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj": {
+                "projectPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj"
               }
             }
           }
@@ -50,7 +50,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "11.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-rc.3.26522.148/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -368,20 +368,20 @@
         }
       }
     },
-    "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj": {
+    "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj",
         "projectName": "EstateFlow.Domain",
-        "projectPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj",
-        "packagesPath": "C:\\Users\\4-110-7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nadia Sherri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\4-110-7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nadia Sherri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -410,7 +410,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "11.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -432,7 +432,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-rc.3.26522.148/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -710,20 +710,20 @@
         }
       }
     },
-    "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj": {
+    "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj",
         "projectName": "EstateFlow.Infrastructure",
-        "projectPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\4-110-7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Nadia Sherri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\4-110-7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nadia Sherri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -740,11 +740,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj": {
-                "projectPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj"
+              "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj": {
+                "projectPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj"
               },
-              "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj": {
-                "projectPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj"
+              "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj": {
+                "projectPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Domain\\EstateFlow.Domain.csproj"
               }
             }
           }
@@ -759,7 +759,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "11.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -787,7 +787,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-rc.3.26522.148/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1065,20 +1065,20 @@
         }
       }
     },
-    "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj": {
+    "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj",
         "projectName": "EstateFlow.Server",
-        "projectPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj",
-        "packagesPath": "C:\\Users\\4-110-7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\obj\\",
+        "projectPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\EstateFlow.Server.csproj",
+        "packagesPath": "C:\\Users\\Nadia Sherri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\4-110-7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nadia Sherri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1095,11 +1095,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj": {
-                "projectPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj"
+              "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj": {
+                "projectPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Application\\EstateFlow.Application.csproj"
               },
-              "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\4-110-7\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj"
+              "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Nadia Sherri\\Documents\\EstateFlow-Lab05\\EstateFlow\\EstateFlow.Infrastructure\\EstateFlow.Infrastructure.csproj"
               }
             }
           }
@@ -1114,25 +1114,13 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "11.0.100"
       },
       "frameworks": {
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
-            "FluentValidation": {
-              "target": "Package",
-              "version": "[12.1.1, )"
-            },
-            "FluentValidation.DependencyInjectionExtensions": {
-              "target": "Package",
-              "version": "[12.1.1, )"
-            },
-            "Mapster": {
-              "target": "Package",
-              "version": "[10.0.12, )"
-            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.9, )"
@@ -1181,7 +1169,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-rc.3.26522.148/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
